@@ -8,14 +8,14 @@ baseten_api_key = BASIC_MODEL_API_KEY
 
 def zephyr_lm(content: str, role: Optional[str] = "student", max_new_tokens: Optional[int] = 128, temperature: Optional[int] = 0.9) -> Any: 
     messages = [
-    {"role": role, "content": content}
+        {"role": role, "content": content}
     ]
 
     data = {
         "messages": messages,
         "stream": False,
         "max_new_tokens": max_new_tokens,
-        "temperature": 0.9
+        "temperature": temperature
     }
 
     # Call model endpoint
