@@ -1,0 +1,550 @@
+04/28/2024 07:43:39 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:40 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:40 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:40 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:40 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:40 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:41 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:43:41 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:42 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:43 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:44 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:44 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:44 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:44 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:43:44 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:46:57 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:58 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:58 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:58 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:46:58 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:58 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:46:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:46:59 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:46:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:00 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:47:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:47:00 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:47:01 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:47:01 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:01 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:02 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:02 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:04 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/j2-ultra/chat HTTP/1.1" 200 None
+04/28/2024 07:47:04 AM - app.routes.ai21 - INFO - apa itu puisi
+04/28/2024 07:47:09 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:47:10 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:47:10 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:47:10 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 07:47:10 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:47:11 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:47:12 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:58 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:58 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:58 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:53:59 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:53:59 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:00 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 07:54:01 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 07:54:05 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/j2-ultra/chat HTTP/1.1" 200 None
+04/28/2024 07:54:05 AM - app.routes.ai21 - INFO - apa itu puisi
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:34 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:34 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:35 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:35 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:35 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:35 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:36 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:36 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:37 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:37 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:37 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:37 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:38 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:38 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:38 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:38 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): us-api.i.posthog.com:443
+04/28/2024 10:56:38 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:38 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:39 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:39 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:39 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:39 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:53 AM - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component System
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component Posthog
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component OpenTelemetryClient
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component SimpleAssignmentPolicy
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component SqliteDB
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component QuotaEnforcer
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component LocalSegmentManager
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component SegmentAPI
+04/28/2024 10:56:53 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:53 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:53 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/embed HTTP/1.1" 200 None
+04/28/2024 10:56:53 AM - chromadb.config - DEBUG - Starting component PersistentLocalHnswSegment
+04/28/2024 10:56:53 AM - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai21.com:443
+04/28/2024 10:56:54 AM - urllib3.connectionpool - DEBUG - https://us-api.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 None
+04/28/2024 10:56:56 AM - urllib3.connectionpool - DEBUG - https://api.ai21.com:443 "POST /studio/v1/j2-ultra/chat HTTP/1.1" 200 None
+04/28/2024 10:56:56 AM - app.routes.ai21 - INFO - apa itu pidato
